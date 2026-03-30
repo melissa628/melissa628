@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently cruising through: Finalizing my 3rd-year engineering projects at the University of Bejaia.<br><br>👯 Looking to jet-set on: Collaborative Open Source projects or bold UI/UX design challenges.<br><br>🤝 Seeking wisdom in: Advanced software architecture and the art of writing "clean" code that doesn't break at 2 AM.<br><br>🎨 Obsessing over: Perfecting the Glassmorphism and Neomorphic trends—because every pixel deserves a shadow.<br><br>💬 Let's talk about: Web development, typography, or why Dark Mode is a basic human right.<br><br>⚡ Fun fact: I can spend 3 hours debating the exact border-radius of a button to achieve "pixel-perfection." 
+🔭 Currently cruising through: Finalizing my 3rd-year engineering projects at the University of Bejaia.><br>👯 Looking to jet-set on: Collaborative Open Source projects or bold UI/UX design challenges.<br>🤝 Seeking wisdom in: Advanced software architecture and the art of writing "clean" code that doesn't break at 2 AM.<br>🎨 Obsessing over: Perfecting the Glassmorphism and Neomorphic trends—because every pixel deserves a shadow.<br>💬 Let's talk about: Web development, typography, or why Dark Mode is a basic human right.<br>⚡ Fun fact: I can spend 3 hours debating the exact border-radius of a button to achieve "pixel-perfection." 
 
 
 ## 🌐 Socials:
